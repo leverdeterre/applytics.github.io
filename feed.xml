@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applytics</title>
+    <description>My first idea was to find the application compatible with my &quot;old&quot; devices. With millions of records i want t reveal what is really inside AppStore.
+</description>
+    <link>127.0.0.1:4000#"http://applytics.com"/</link>
+    <atom:link href="127.0.0.1:4000#"http://applytics.com"/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 28 Feb 2015 10:20:42 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2015 10:20:42 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>AppStore supported languages</title>
+        <description>
+&lt;div class=&quot;highlight&quot;&gt;
+  &lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;size&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Go&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;records&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;135&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;994&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;applications&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;supported-languages&quot;&gt;1. Supported languages&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications supporting common languages&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-15/us_supported_languages.png&quot; alt=&quot;Number of applications supporting common languages&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;number-of-supported-languages&quot;&gt;2. Number of supported languages&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications supportings lots of languages&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-15/us_number_of_languages_supported.png&quot; alt=&quot;Number of applications supportings lots of languages&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;application-supporting-lot-of-languages&quot;&gt;3. Application supporting lot of languages&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;184&lt;/strong&gt;:&lt;a href=&quot;463774471&quot;&gt;Käseberater
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;184&lt;/strong&gt;:&lt;a href=&quot;546002010&quot;&gt;BIX2
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;115&lt;/strong&gt;:&lt;a href=&quot;836919668&quot;&gt;Adventure On the Earth
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;115&lt;/strong&gt;:&lt;a href=&quot;866546102&quot;&gt;Air War Hero
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;113&lt;/strong&gt;:&lt;a href=&quot;771653441&quot;&gt;Banking with SGBL
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;113&lt;/strong&gt;:&lt;a href=&quot;868320250&quot;&gt;TNB
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;98&lt;/strong&gt;:&lt;a href=&quot;406292075&quot;&gt;FlickKey Keyboard Notes
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;98&lt;/strong&gt;:&lt;a href=&quot;445184518&quot;&gt;FlickKey Mini Keyboard (Email, SMS, &amp;amp; Text)
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;81&lt;/strong&gt;:&lt;a href=&quot;425056815&quot;&gt;It’s Me
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;79&lt;/strong&gt;:&lt;a href=&quot;493529867&quot;&gt;SafeSlinger
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;73&lt;/strong&gt;:&lt;a href=&quot;814303899&quot;&gt;Universal Audio Translator
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;73&lt;/strong&gt;:&lt;a href=&quot;853371601&quot;&gt;Google My Business
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;68&lt;/strong&gt;:&lt;a href=&quot;840055519&quot;&gt;1StopStatus
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;67&lt;/strong&gt;:&lt;a href=&quot;772490907&quot;&gt;WeatherInfo
+&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;66&lt;/strong&gt;:&lt;a href=&quot;680819774&quot;&gt;Chromecast
+&lt;/a&gt;	&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 15 Feb 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-supported-languages.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-supported-languages.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>supported languages</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore prices</title>
+        <description>
+&lt;div class=&quot;highlight&quot;&gt;
+  &lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;size&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Go&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;records&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;135&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;994&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;applications&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;prices&quot;&gt;1. Prices&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_by_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;iOS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Number of applications&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Free&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;780,767&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;69%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$0,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;168,168&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$1,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;72,108&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$2,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;43,983&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$3,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16,611&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$4,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21,677&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$5,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4,766&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$6,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3,136&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$7,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2,145&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$8,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1,508&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$9,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8,473&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$10,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;911&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$11,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;663&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;$12,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;617&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;mental-prices&quot;&gt;2. Mental prices&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_mental_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;bigges-prices&quot;&gt;2. Bigges prices&lt;/h1&gt;
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 15 Feb 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>prices</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore supported devices</title>
+        <description>
+&lt;div class=&quot;highlight&quot;&gt;
+  &lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;size&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Go&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;records&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;135&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;994&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;applications&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We have seen in the previous article &lt;a href=&quot;/appstore/statistics/2015/02/13/fr-appstore-supported-ios-version.html&quot;&gt;previous article&lt;/a&gt; that iOS supported version change with release date.
+What is the impact on the supported devices? I will not speak about compatibility or optimized version (optimized for iPhone 6 or not).
+This article is about application that can be installed on my devices. (remember i have old devices, i want to know if they will be able to install actual apps.)&lt;/p&gt;
+
+&lt;h1 id=&quot;iphone--ipad--universel&quot;&gt;1. iPhone / iPad / Universel&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+&amp;lt;table class=&quot;image no_border&quot;&amp;gt;
+&amp;lt;caption align=&quot;bottom&quot;&amp;gt;&lt;strong&gt;Number of applications by device category&lt;/strong&gt;&amp;lt;/caption&amp;gt;
+&amp;lt;tr class=&quot;no_border&quot;&amp;gt;&amp;lt;td class=&quot;no_border&quot;&amp;gt;&lt;img src=&quot;/assets/2015-02-14/us_iphone_ipad_univeral.png&quot; alt=&quot;Number of applications by device category&quot; /&gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;supported-iphones&quot;&gt;2. Supported iPhones&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+&amp;lt;table class=&quot;image no_border&quot;&amp;gt;
+&amp;lt;caption align=&quot;bottom&quot;&amp;gt;&lt;strong&gt;Number of applications availables by iPhone&lt;/strong&gt;&amp;lt;/caption&amp;gt;
+&amp;lt;tr class=&quot;no_border&quot;&amp;gt;&amp;lt;td class=&quot;no_border&quot;&amp;gt;&lt;img src=&quot;/assets/2015-02-14/us_iphone_release_date.png&quot; alt=&quot;Number of applications availables by iPhone&quot; /&gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bad news&lt;/strong&gt; &lt;br /&gt;
+Since December, 2012 we can considered that no new applications or updates can support the 1st generation iPhone.
+Some months letters, April, 2013, the iPhone 3G can be a target device.&lt;/p&gt;
+
+&lt;h1 id=&quot;supported-ipad&quot;&gt;3. Supported iPad&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+&amp;lt;table class=&quot;image no_border&quot;&amp;gt;
+&amp;lt;caption align=&quot;bottom&quot;&amp;gt;&lt;strong&gt;Number of applications availables by iPad&lt;/strong&gt;&amp;lt;/caption&amp;gt;
+&amp;lt;tr class=&quot;no_border&quot;&amp;gt;&amp;lt;td class=&quot;no_border&quot;&amp;gt;&lt;img src=&quot;/assets/2015-02-14/us_ipad_release_date.png&quot; alt=&quot;Number of applications availables by iPad&quot; /&gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Good news!&lt;/strong&gt; &lt;br /&gt;
+The first iPad is still supported. The minimal targeted iOS should be is 5.1.1 (it’s a big effort for the development).
+The iPad 2 is a real survivor ! Out of the box in March 2011 and fully supported !&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/14/fr-appstore-supported-devices.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/14/fr-appstore-supported-devices.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>supported version</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore miminal iOS supported version</title>
+        <description>&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
+&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The App Store opened on July 10, 2008.
+How many compatible applications can by find on the Appstore today for your “old” device.&lt;/p&gt;
+
+&lt;h1 id=&quot;understanding-ios-compatibility-on-the-appstore&quot;&gt;1. Understanding iOS compatibility on the AppStore&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Device&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;limited iOS version&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPhone&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;iOS 3.1.3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPhone 3G&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;iOS 4.1.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPhone 3GS&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;iOS 6.1.6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPhone 4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;iOS 7.1.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPhone 4S + others&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;iOS 8.X&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPad&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;iOS 5.1.1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iPad 2 + others&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;iOS 8.X&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Source : &lt;a href=&quot;http://iossupportmatrix.com/&quot;&gt;iOS Matrix&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;ios-version-compatibility-on-the-appstore&quot;&gt;2. iOS version compatibility on the AppStore&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Pourcent of AppStore applications by iOS minimum version&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios_minimum_supported_version_pourcent.png&quot; alt=&quot;Pourcent of AppStore applications by iOS minimum version&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;iOS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Number of applications&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18.247&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;130.349&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;277.334&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;25%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;263.517&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;266.598&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;154.222&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10.536&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a good suprise. My iPhone 2G is compatible with 148,596 applications.
+My iPad1 is compatible with 689,447 apps. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;evolution-of-ios-support-on-the-appstore&quot;&gt;3. Evolution of iOS support on the AppStore&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, i’m an iOS developer.
+Every day i have to choose the iOS minimal version to support.
+The next study is about the ‘1st release date’ of the application and the iOS minimum supported version.&lt;/p&gt;
+
+&lt;h2 id=&quot;one-by-one&quot;&gt;3.1. One by one&lt;/h2&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS2 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios2_release_date.png&quot; alt=&quot;iOS2 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS3 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios3_release_date.png&quot; alt=&quot;iOS3 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;key dates&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;February 16, 2012 : Xcode 4 (Minimal version 4.3)&lt;/p&gt;
+&lt;p&gt;October, 2012 : Xcode 4 become mandatory&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS4 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios4_release_date.png&quot; alt=&quot;iOS4 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;key dates&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;February 1, 2014 : Xcode 5 (Minimal version 4.3)&lt;/p&gt;
+&lt;p&gt;September 2014 : Xcode 5 become mandatory&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS5 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios5_release_date.png&quot; alt=&quot;iOS5 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS6 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios6_release_date.png&quot; alt=&quot;iOS6 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS7 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios7_release_date.png&quot; alt=&quot;iOS7 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS8 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios8_release_date.png&quot; alt=&quot;iOS8 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The supported iOS is changing (it’s not very surprising).
+More recent released applications supports more recent iOS versions. It’s quite normal.
+Apple “controls” the supported version of iOS by the configuration of the minimal target version of Xcode.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Xcode 3 : Supports minimum target version iOS3.0&lt;/li&gt;
+  &lt;li&gt;Xcode 4 : Supports minimum target version iOS4.3&lt;/li&gt;
+  &lt;li&gt;Xcode 5 : Supports minimum target version iOS4.3&lt;/li&gt;
+  &lt;li&gt;Xcode 6 : Supports minimum target version iOS4.3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Actually, it’s possible to do a iOS application with iOS4.3 compatibility but it’s complicated for developpers.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cumulated&quot;&gt;3.2. Cumulated&lt;/h2&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Cumulated iOS version f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_release_date_2_ios_version.png&quot; alt=&quot;Cumulated iOS version f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Release date&lt;/th&gt;
+      &lt;th&gt;iOS4&lt;/th&gt;
+      &lt;th&gt;iOS5&lt;/th&gt;
+      &lt;th&gt;iOS6&lt;/th&gt;
+      &lt;th&gt;iOS7&lt;/th&gt;
+      &lt;th&gt;iOS8&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;September 2014&lt;/td&gt;
+      &lt;td&gt;9.19%&lt;/td&gt;
+      &lt;td&gt;16.73%&lt;/td&gt;
+      &lt;td&gt;42.60%&lt;/td&gt;
+      &lt;td&gt;29.28%&lt;/td&gt;
+      &lt;td&gt;2.16%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;January 2015&lt;/td&gt;
+      &lt;td&gt;7.22%&lt;/td&gt;
+      &lt;td&gt;14.67%&lt;/td&gt;
+      &lt;td&gt;40.14%&lt;/td&gt;
+      &lt;td&gt;31.00%&lt;/td&gt;
+      &lt;td&gt;6.98%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;iOS4&lt;/strong&gt; : This old versions are slowly abandonned. iOS4 is not an interesting iOS veriosn to support. This version was released on june 2010. (impacted device iPhone 3G).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iOS5&lt;/strong&gt; : This iOS version is important for iPad of the first generation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iOS6&lt;/strong&gt; : The most present 40% &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iOS7&lt;/strong&gt; : &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iOS8&lt;/strong&gt; : New released application only support iOS8. &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 13 Feb 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/13/fr-appstore-supported-ios-version.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/13/fr-appstore-supported-ios-version.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>supported version</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore growth</title>
+        <description>&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
+&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;years-&quot;&gt;6 years !&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+AppleStore release July, 10, 2008 !&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of new released applications by year&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-12/us_applstore_growth.png&quot; alt=&quot;Number of new released applications by year&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Year&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;New applications&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Annual Growth Rate*&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2008&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5,854&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2009&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;42,066&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;+619%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2010&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;99,027&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;+135%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2011&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;142,359&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;+44%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2012&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;194,193&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;+36%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2013&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;266,402&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;+37%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2014&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;361,083&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;+36%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2015*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;489,414&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;+36%&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;Annual Growth Rate (new apps) = 100 * ((New apps)-(New apps year-1)) / (New apps year-1)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The AppStore is growing.
+Each year, more and more apps are submitted and released on the Apple store.
+Since 2012, Annual Growth Rate is stabilize to a constant rate 36%.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Year&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Registered developpers&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Year growth*&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2008&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2009*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;960,000*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;-&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2010*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;2,300,000*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;x 2.35*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2011*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;3,300,000*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;x 1.43*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2012&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4,500,000&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;x 1.36*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2013&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6,000,000&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;x 1.33&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2014&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9,000,000&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;x 1.5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;*indicate estimated value&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So what ? I’m not realy agree with this &lt;a href=&quot;http://blog.appfigures.com/app-stores-growth-accelerates-in-2014&quot;&gt;appfigures article&lt;/a&gt;.
+The AppStore growing is not accelerating is now ~constant, +36% each year.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;appstore-month-by-month&quot;&gt;AppStore, month by month&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of new released applications by months&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-12/us_applstore_growth_months.png&quot; alt=&quot;Number of new released applications by months&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+Each years, on november/december, there is a statisticaly more submitted/released Apple :) &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of new released applications by months&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-12/us_applstore_growth_months_pourcent.png&quot; alt=&quot;Number of new released applications by months&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the beginning of the AppStore, there were a huge wave of new apps at the Christmas period. 20% of the new app of the year submitted in 2 months. That Christmas effet is reducing, with a more constant ratio during the year.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Feb 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/growth/2015/02/12/fr-appstore-applications-growth.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/growth/2015/02/12/fr-appstore-applications-growth.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>growth</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>growth</category>
+        
+      </item>
+    
+  </channel>
+</rss>
