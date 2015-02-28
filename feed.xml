@@ -6,68 +6,182 @@
 </description>
     <link>127.0.0.1:4000#"http://applytics.com"/</link>
     <atom:link href="127.0.0.1:4000#"http://applytics.com"/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Feb 2015 11:31:09 +0100</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2015 11:31:09 +0100</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2015 15:46:35 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2015 15:46:35 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>AppStore supported languages</title>
-        <description>
-&lt;div class=&quot;highlight&quot;&gt;
-  &lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;size&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Go&lt;/span&gt;
-&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;records&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;135&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;994&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;applications&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+        <description>&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
+&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&quot;supported-languages&quot;&gt;1. Supported languages&lt;/h1&gt;
 &lt;hr /&gt;
+
 &lt;table class=&quot;image no_border&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications supporting common languages&lt;/strong&gt;&lt;/caption&gt;
 &lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-15/us_supported_languages.png&quot; alt=&quot;Number of applications supporting common languages&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Language&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Number of apps&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Pourcent&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;EN&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,072,303&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;94,39%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;ZH&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;253,275&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;22,30%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;DE&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;188,861&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;16,63%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;ES&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;159,481&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;14,04%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;FR&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;148,381&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;13,06%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;JA&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;135,499&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;11,93%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;IT&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;114,344&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;10,07%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;RU&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;103,225&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;9,09%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;PT&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;97,664&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8,60%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;KO&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;88,074&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7,75%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;NL&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;86,567&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7,62%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;number-of-supported-languages&quot;&gt;2. Number of supported languages&lt;/h1&gt;
 &lt;hr /&gt;
+
 &lt;table class=&quot;image no_border&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications supportings lots of languages&lt;/strong&gt;&lt;/caption&gt;
 &lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-15/us_number_of_languages_supported.png&quot; alt=&quot;Number of applications supportings lots of languages&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;application-supporting-lot-of-languages&quot;&gt;3. Application supporting lot of languages&lt;/h1&gt;
+&lt;h1 id=&quot;applications-supporting-lot-of-languages&quot;&gt;3. Applications supporting lot of languages&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;184&lt;/strong&gt;:&lt;a href=&quot;463774471&quot;&gt;Käseberater
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;184&lt;/strong&gt;:&lt;a href=&quot;546002010&quot;&gt;BIX2
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;115&lt;/strong&gt;:&lt;a href=&quot;836919668&quot;&gt;Adventure On the Earth
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;115&lt;/strong&gt;:&lt;a href=&quot;866546102&quot;&gt;Air War Hero
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;113&lt;/strong&gt;:&lt;a href=&quot;771653441&quot;&gt;Banking with SGBL
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;113&lt;/strong&gt;:&lt;a href=&quot;868320250&quot;&gt;TNB
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;98&lt;/strong&gt;:&lt;a href=&quot;406292075&quot;&gt;FlickKey Keyboard Notes
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;98&lt;/strong&gt;:&lt;a href=&quot;445184518&quot;&gt;FlickKey Mini Keyboard (Email, SMS, &amp;amp; Text)
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;81&lt;/strong&gt;:&lt;a href=&quot;425056815&quot;&gt;It’s Me
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;79&lt;/strong&gt;:&lt;a href=&quot;493529867&quot;&gt;SafeSlinger
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;73&lt;/strong&gt;:&lt;a href=&quot;814303899&quot;&gt;Universal Audio Translator
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;73&lt;/strong&gt;:&lt;a href=&quot;853371601&quot;&gt;Google My Business
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;68&lt;/strong&gt;:&lt;a href=&quot;840055519&quot;&gt;1StopStatus
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;67&lt;/strong&gt;:&lt;a href=&quot;772490907&quot;&gt;WeatherInfo
-&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;66&lt;/strong&gt;:&lt;a href=&quot;680819774&quot;&gt;Chromecast
-&lt;/a&gt;	&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Languages&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;App&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;184&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;463774471&quot; target=&quot;_blank&quot;&gt;Käseberater&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;184&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;546002010&quot; target=&quot;_blank&quot;&gt;BIX2&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;115&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;836919668&quot; target=&quot;_blank&quot;&gt;Adventure On the Earth&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;115&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;866546102&quot; target=&quot;_blank&quot;&gt;Air War Hero&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;113&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;771653441&quot; target=&quot;_blank&quot;&gt;Banking with SGBL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;113&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;868320250&quot; target=&quot;_blank&quot;&gt;TNB&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;98&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;406292075&quot; target=&quot;_blank&quot;&gt;FlickKey Keyboard Notes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;98&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;445184518&quot; target=&quot;_blank&quot;&gt;FlickKey Mini Keyboard (Email, SMS, &amp;amp; Text)&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;81&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;425056815&quot; target=&quot;_blank&quot;&gt;It’s Me&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;79&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;493529867&quot; target=&quot;_blank&quot;&gt;SafeSlinger&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;73&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;814303899&quot; target=&quot;_blank&quot;&gt;Universal Audio Translator&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;73&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;853371601&quot; target=&quot;_blank&quot;&gt;Google My Business&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;68&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;840055519&quot; target=&quot;_blank&quot;&gt;1StopStatus&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;67&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;772490907&quot; target=&quot;_blank&quot;&gt;WeatherInfo&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;66&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;680819774&quot; target=&quot;_blank&quot;&gt;Chromecast&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Feb 2015 22:12:25 +0100</pubDate>
         <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-supported-languages.html</link>
@@ -90,98 +204,99 @@
     
       <item>
         <title>AppStore prices</title>
-        <description>
-&lt;div class=&quot;highlight&quot;&gt;
-  &lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;size&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Go&lt;/span&gt;
-&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;records&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;135&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;994&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;applications&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+        <description>&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
+&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;prices&quot;&gt;1. Prices&lt;/h1&gt;
 &lt;hr /&gt;
+
 &lt;table class=&quot;image no_border&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
 &lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_by_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;iOS&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Number of applications&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Number of applications&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Free&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;780,767&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;780,767&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;69%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$0,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;168,168&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;168,168&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;15%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$1,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;72,108&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;72,108&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;6%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$2,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;43,983&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;43,983&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;4%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$3,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16,611&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;16,611&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$4,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;21,677&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;21,677&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$5,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4,766&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4,766&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$6,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3,136&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3,136&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$7,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2,145&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2,145&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$8,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1,508&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,508&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$9,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8,473&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8,473&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$10,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;911&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;911&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$11,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;663&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;663&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;$12,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;617&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;617&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -191,14 +306,19 @@
 
 &lt;h1 id=&quot;mental-prices&quot;&gt;2. Mental prices&lt;/h1&gt;
 &lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;table class=&quot;image no_border&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
 &lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_mental_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;bigges-prices&quot;&gt;2. Bigges prices&lt;/h1&gt;
 &lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+(in progress)&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Feb 2015 22:12:25 +0100</pubDate>
         <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices.html</link>
@@ -221,47 +341,54 @@
     
       <item>
         <title>AppStore supported devices</title>
-        <description>
-&lt;div class=&quot;highlight&quot;&gt;
-  &lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;size&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Go&lt;/span&gt;
-&lt;span class=&quot;no&quot;&gt;Database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;records&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;135&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;994&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;applications&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+        <description>&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
+&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;We have seen in the previous article &lt;a href=&quot;/appstore/statistics/2015/02/13/fr-appstore-supported-ios-version.html&quot;&gt;previous article&lt;/a&gt; that iOS supported version change with release date.
+&lt;p&gt;We have seen in the &lt;a href=&quot;/appstore/statistics/2015/02/13/fr-appstore-supported-ios-version.html&quot;&gt;previous article&lt;/a&gt; that iOS supported version change with release date.
 What is the impact on the supported devices? I will not speak about compatibility or optimized version (optimized for iPhone 6 or not).
 This article is about application that can be installed on my devices. (remember i have old devices, i want to know if they will be able to install actual apps.)&lt;/p&gt;
 
 &lt;h1 id=&quot;iphone--ipad--universel&quot;&gt;1. iPhone / iPad / Universel&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;
-&amp;lt;table class=&quot;image no_border&quot;&amp;gt;
-&amp;lt;caption align=&quot;bottom&quot;&amp;gt;&lt;strong&gt;Number of applications by device category&lt;/strong&gt;&amp;lt;/caption&amp;gt;
-&amp;lt;tr class=&quot;no_border&quot;&amp;gt;&amp;lt;td class=&quot;no_border&quot;&amp;gt;&lt;img src=&quot;/assets/2015-02-14/us_iphone_ipad_univeral.png&quot; alt=&quot;Number of applications by device category&quot; /&gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
-&amp;lt;/table&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by device category&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-14/us_iphone_ipad_univeral.png&quot; alt=&quot;Number of applications by device category&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;supported-iphones&quot;&gt;2. Supported iPhones&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;
-&amp;lt;table class=&quot;image no_border&quot;&amp;gt;
-&amp;lt;caption align=&quot;bottom&quot;&amp;gt;&lt;strong&gt;Number of applications availables by iPhone&lt;/strong&gt;&amp;lt;/caption&amp;gt;
-&amp;lt;tr class=&quot;no_border&quot;&amp;gt;&amp;lt;td class=&quot;no_border&quot;&amp;gt;&lt;img src=&quot;/assets/2015-02-14/us_iphone_release_date.png&quot; alt=&quot;Number of applications availables by iPhone&quot; /&gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
-&amp;lt;/table&amp;gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Bad news&lt;/strong&gt; &lt;br /&gt;
-Since December, 2012 we can considered that no new applications or updates can support the 1st generation iPhone.
-Some months letters, April, 2013, the iPhone 3G can be a target device.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications availables by iPhone&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-14/us_iphone_release_date.png&quot; alt=&quot;Number of applications availables by iPhone&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Bad news !&lt;/strong&gt; &lt;br /&gt;
+Since December, 2012 we can considered that there is no new app or updates that can supports the 1st generation iPhone.
+Some months later (April, 2013) iPhone 3G can be qualitifer has an usupported device too.&lt;/p&gt;
 
 &lt;h1 id=&quot;supported-ipad&quot;&gt;3. Supported iPad&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;
-&amp;lt;table class=&quot;image no_border&quot;&amp;gt;
-&amp;lt;caption align=&quot;bottom&quot;&amp;gt;&lt;strong&gt;Number of applications availables by iPad&lt;/strong&gt;&amp;lt;/caption&amp;gt;
-&amp;lt;tr class=&quot;no_border&quot;&amp;gt;&amp;lt;td class=&quot;no_border&quot;&amp;gt;&lt;img src=&quot;/assets/2015-02-14/us_ipad_release_date.png&quot; alt=&quot;Number of applications availables by iPad&quot; /&gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
-&amp;lt;/table&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications availables by iPad&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-14/us_ipad_release_date.png&quot; alt=&quot;Number of applications availables by iPad&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;p&gt;&lt;strong&gt;Good news!&lt;/strong&gt; &lt;br /&gt;
-The first iPad is still supported. The minimal targeted iOS should be is 5.1.1 (it’s a big effort for the development).
-The iPad 2 is a real survivor ! Out of the box in March 2011 and fully supported !&lt;/p&gt;
+iPad first generation is still supported. The minimal targeted iOS should be is 5.1.1. it’s a big effort for the development. (&lt;a href=&quot;/appstore/statistics/2015/02/13/fr-appstore-supported-ios-version.html&quot;&gt;Support iOS version&lt;/a&gt;).
+The iPad 2 is a real survivor ! Out of the box in March 2011 and still actualy supported !&lt;/p&gt;
 </description>
         <pubDate>Sat, 14 Feb 2015 22:12:25 +0100</pubDate>
         <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/14/fr-appstore-supported-devices.html</link>
@@ -294,6 +421,7 @@ How many compatible applications can by find on the Appstore today for your “o
 
 &lt;h1 id=&quot;understanding-ios-compatibility-on-the-appstore&quot;&gt;1. Understanding iOS compatibility on the AppStore&lt;/h1&gt;
 &lt;hr /&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;table&gt;
@@ -358,37 +486,37 @@ Source : &lt;a href=&quot;http://iossupportmatrix.com/&quot;&gt;iOS Matrix&lt;/a
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;iOS2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;18.247&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18,247&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;iOS3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;130.349&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;130,349&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;12%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;iOS4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;277.334&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;277,334&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;25%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;iOS5&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;263.517&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;263,517&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;24%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;iOS6&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;266.598&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;266,598&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;24%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;iOS7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;154.222&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;154,222&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;14%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;iOS8&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10.536&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10,536&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -456,14 +584,15 @@ More recent released applications supports more recent iOS versions. It’s quit
 Apple “controls” the supported version of iOS by the configuration of the minimal target version of Xcode.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Xcode 3 : Supports minimum target version iOS3.0&lt;/li&gt;
-  &lt;li&gt;Xcode 4 : Supports minimum target version iOS4.3&lt;/li&gt;
-  &lt;li&gt;Xcode 5 : Supports minimum target version iOS4.3&lt;/li&gt;
-  &lt;li&gt;Xcode 6 : Supports minimum target version iOS4.3&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Xcode 3&lt;/strong&gt; : Supports minimum target version iOS3.0&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Xcode 4&lt;/strong&gt; : Supports minimum target version iOS4.3&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Xcode 5&lt;/strong&gt; : Supports minimum target version iOS4.3&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Xcode 6&lt;/strong&gt; : Supports minimum target version iOS4.3&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Actually, it’s possible to do a iOS application with iOS4.3 compatibility but it’s complicated for developpers.
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Actually, it’s possible to do a iOS application with iOS4.3 compatibility but it’s complicated for developpers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;cumulated&quot;&gt;3.2. Cumulated&lt;/h2&gt;
 
@@ -478,29 +607,29 @@ Apple “controls” the supported version of iOS by the configuration of the mi
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: left&quot;&gt;Release date&lt;/th&gt;
-      &lt;th&gt;iOS4&lt;/th&gt;
-      &lt;th&gt;iOS5&lt;/th&gt;
-      &lt;th&gt;iOS6&lt;/th&gt;
-      &lt;th&gt;iOS7&lt;/th&gt;
-      &lt;th&gt;iOS8&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS4&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS5&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS6&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS7&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS8&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;September 2014&lt;/td&gt;
-      &lt;td&gt;9.19%&lt;/td&gt;
-      &lt;td&gt;16.73%&lt;/td&gt;
-      &lt;td&gt;42.60%&lt;/td&gt;
-      &lt;td&gt;29.28%&lt;/td&gt;
-      &lt;td&gt;2.16%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9,19%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16,73%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;42,60%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;29,28%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2,16%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;January 2015&lt;/td&gt;
-      &lt;td&gt;7.22%&lt;/td&gt;
-      &lt;td&gt;14.67%&lt;/td&gt;
-      &lt;td&gt;40.14%&lt;/td&gt;
-      &lt;td&gt;31.00%&lt;/td&gt;
-      &lt;td&gt;6.98%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7,22% (&lt;font color=&quot;red&quot;&gt;-1,97%&lt;/font&gt;)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14,67% (&lt;font color=&quot;red&quot;&gt;-2,06%&lt;/font&gt;)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;40,14% &lt;font color=&quot;red&quot;&gt;-2,46%&lt;/font&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;31,00% (&lt;font color=&quot;green&quot;&gt;+1,72%&lt;/font&gt;)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6,98% (&lt;font color=&quot;green&quot;&gt;+4,82%&lt;/font&gt;)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -508,12 +637,88 @@ Apple “controls” the supported version of iOS by the configuration of the mi
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;iOS4&lt;/strong&gt; : This old versions are slowly abandonned. iOS4 is not an interesting iOS veriosn to support. This version was released on june 2010. (impacted device iPhone 3G).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;iOS5&lt;/strong&gt; : This iOS version is important for iPad of the first generation.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;iOS6&lt;/strong&gt; : The most present 40% &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;iOS7&lt;/strong&gt; : &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;iOS8&lt;/strong&gt; : New released application only support iOS8. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iOS4&lt;/strong&gt; : This old version is slowly abandoned. iOS4 is not very interesting iOS version to support. This version was released on june 2010 and the only impacted device is the iPhone 3G.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iOS5&lt;/strong&gt; : This major impact to support this version is to be able to deploy the applicaiton on the first iPad.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iOS6/7/8&lt;/strong&gt; : Are supported from iPhone 3GS to iPhone 6 Plus.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;why-supporting-ios-version-is-complicated-&quot;&gt;4. Why supporting iOS version is complicated ?&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Problems&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS4&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS5&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS6&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS7&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iOS8&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Environment : find a device is complicated&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Environment : Xcode simulator missing&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : childViewController missing&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : autolayout missing&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : weak missing (less stability)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : storyboard  missing&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : CollectionView missing&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 </description>
         <pubDate>Fri, 13 Feb 2015 22:12:25 +0100</pubDate>
