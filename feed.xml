@@ -6,8 +6,8 @@
 </description>
     <link>127.0.0.1:4000#"http://applytics.com"/</link>
     <atom:link href="127.0.0.1:4000#"http://applytics.com"/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Feb 2015 15:46:35 +0100</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2015 15:46:35 +0100</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2015 16:19:20 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2015 16:19:20 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -203,6 +203,32 @@
       </item>
     
       <item>
+        <title>AppStore prices 999,99</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;applications-list&quot;&gt;Applications list&lt;/h1&gt;
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 15 Feb 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>prices</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
         <title>AppStore prices</title>
         <description>&lt;div class=&quot;highlight&quot;&gt;
   &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
@@ -223,88 +249,92 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;iOS&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Price&lt;/th&gt;
       &lt;th style=&quot;text-align: right&quot;&gt;Number of applications&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;Free&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Free&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;780,767&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;69%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$0,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$0,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;168,168&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;15%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$1,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;72,108&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;6%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$2,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$2,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;43,983&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;4%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$3,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$3,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;16,611&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$4,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$4,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;21,677&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$5,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$5,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;4,766&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$6,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$6,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;3,136&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$7,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$7,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;2,145&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$8,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$8,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;1,508&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$9,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$9,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;8,473&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$10,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$10,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;911&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$11,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$11,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;663&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;$12,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12,99&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;617&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+70% of the AppStore applications are free. 
+15% of the AppStore applications are $0,99.
+15% of the AppStore applications are &amp;gt; $0,99.
+By looking at the prices graph we can find a peak for $9,99. Is it normal ? why ? That’s a psychological price!&lt;/p&gt;
 
-&lt;h1 id=&quot;mental-prices&quot;&gt;2. Mental prices&lt;/h1&gt;
+&lt;h1 id=&quot;psychological-prices&quot;&gt;2. Psychological prices&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -312,10 +342,70 @@
 &lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
 &lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_mental_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Price&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Number of applications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$9,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8,473&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$14,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,290&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$19,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2,186&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$29,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,062&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$39,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;304&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$49,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;440&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$59,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;130&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$79,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;112&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$99,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;305&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$199,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;69&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$299,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;55&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html&quot;&gt;$999,99&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html&quot;&gt;32&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;bigges-prices&quot;&gt;2. Bigges prices&lt;/h1&gt;
+&lt;h1 id=&quot;biggest-prices&quot;&gt;2. Biggest prices&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;
 (in progress)&lt;/p&gt;
