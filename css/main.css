@@ -48,6 +48,9 @@ table, th, td {
   padding-right: 10px;
   padding-left: 10px; }
 
+.noborder {
+  margin-bottom: 0px; }
+
 .no_border {
   border: 0px solid black; }
 
