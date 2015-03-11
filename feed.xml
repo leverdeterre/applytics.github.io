@@ -6,9 +6,1703 @@
 </description>
     <link>127.0.0.1:4000#"http://applytics.com"/</link>
     <atom:link href="127.0.0.1:4000#"http://applytics.com"/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Mar 2015 14:03:54 +0100</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2015 14:03:54 +0100</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2015 07:24:38 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2015 07:24:38 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>AppStore genres</title>
+        <description>&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
+&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;genres&quot;&gt;1. Genres&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;% of applications by genres&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-06/us_applications_2014_genres.png&quot; alt=&quot;% of applications by genres&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;genres-evolutions&quot;&gt;2. Genres evolutions&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;% of applications by genres&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-06/us_applications_genres_evolution.png&quot; alt=&quot;% of applications by genres&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Mar 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/06/fr-appstore-genres.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/06/fr-appstore-genres.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>prices</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore prices $199</title>
+        <description>&lt;h1 id=&quot;applications-list&quot;&gt;Applications list&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Price&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Application&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id293287313?mt=8&quot; target=&quot;_blank&quot;&gt;G-Map U.S. West&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id299962619?mt=8&quot; target=&quot;_blank&quot;&gt;G-Map U.S. East&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id329957687?mt=8&quot; target=&quot;_blank&quot;&gt;G-Map UK &amp;amp; Ireland&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id329959715?mt=8&quot; target=&quot;_blank&quot;&gt;G-Map France&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id329961192?mt=8&quot; target=&quot;_blank&quot;&gt;G-Map DACH&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id329963045?mt=8&quot; target=&quot;_blank&quot;&gt;G-Map ALPS&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id335298815?mt=8&quot; target=&quot;_blank&quot;&gt;G-Map Russia&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id343196293?mt=8&quot; target=&quot;_blank&quot;&gt;Shenzhen Cute Girl&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id346102982?mt=8&quot; target=&quot;_blank&quot;&gt;G-map IBERIA&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id371089612?mt=8&quot; target=&quot;_blank&quot;&gt;CASA Space Frame 3D&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id372766896?mt=8&quot; target=&quot;_blank&quot;&gt;QuizCenter&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id380136826?mt=8&quot; target=&quot;_blank&quot;&gt;Codex Angebotserfassung für iPad&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id380146289?mt=8&quot; target=&quot;_blank&quot;&gt;Codex Angebotserfassung für iPhone&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id398444164?mt=8&quot; target=&quot;_blank&quot;&gt;The Atlas of Emergency Medicine&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id399798881?mt=8&quot; target=&quot;_blank&quot;&gt;Rx Vigilance (The Professional Drug &amp;amp; Health Reference Tool)&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id404687595?mt=8&quot; target=&quot;_blank&quot;&gt;Remotescape for iPad&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id412448074?mt=8&quot; target=&quot;_blank&quot;&gt;OneVoice - AAC&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id422000757?mt=8&quot; target=&quot;_blank&quot;&gt;iSTI Professional&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id436001310?mt=8&quot; target=&quot;_blank&quot;&gt;NWare mobile&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id439151280?mt=8&quot; target=&quot;_blank&quot;&gt;Embla Remote&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id460164777?mt=8&quot; target=&quot;_blank&quot;&gt;Taxi Dispatch&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id461371736?mt=8&quot; target=&quot;_blank&quot;&gt;Optical Dispensing Assistant&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id477327959?mt=8&quot; target=&quot;_blank&quot;&gt;VibeTrend&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id482508198?mt=8&quot; target=&quot;_blank&quot;&gt;Speak for Yourself&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id485659500?mt=8&quot; target=&quot;_blank&quot;&gt;X-Ray Plan Special&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id489205586?mt=8&quot; target=&quot;_blank&quot;&gt;Vantage Home Control HD&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id491046112?mt=8&quot; target=&quot;_blank&quot;&gt;Altman Z-Score +&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id493639130?mt=8&quot; target=&quot;_blank&quot;&gt;Harrison&#39;s Principles of Internal Medicine - Official Reference eBook for Doctors&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id504168392?mt=8&quot; target=&quot;_blank&quot;&gt;StageWrite for iPad&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id513143137?mt=8&quot; target=&quot;_blank&quot;&gt;AOptix Stratus App for iOS&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id520764780?mt=8&quot; target=&quot;_blank&quot;&gt;Amalgam for Facebook &amp;amp; Twitter&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id548185529?mt=8&quot; target=&quot;_blank&quot;&gt;MemoryMaster for Nurse Anesthetist&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id561883286?mt=8&quot; target=&quot;_blank&quot;&gt;Quantitative Portfolio Optimizer (Pro)&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id562594448?mt=8&quot; target=&quot;_blank&quot;&gt;Sanapsis&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id567610553?mt=8&quot; target=&quot;_blank&quot;&gt;iOptDelivery&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id567612484?mt=8&quot; target=&quot;_blank&quot;&gt;HVAC ResLoad-J&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id569238699?mt=8&quot; target=&quot;_blank&quot;&gt;VibeRMS&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id576234288?mt=8&quot; target=&quot;_blank&quot;&gt;mySCADA Mobile FIFTY&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id580825025?mt=8&quot; target=&quot;_blank&quot;&gt;GeoC Nigeria Map&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id584848261?mt=8&quot; target=&quot;_blank&quot;&gt;KODAK Lens IDS&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id596994087?mt=8&quot; target=&quot;_blank&quot;&gt;Millionaire&#39;s Club&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id598327767?mt=8&quot; target=&quot;_blank&quot;&gt;Street Smarts Mobile&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id611685710?mt=8&quot; target=&quot;_blank&quot;&gt;Sanapsis Suomi&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id629964739?mt=8&quot; target=&quot;_blank&quot;&gt;Airborne Radar&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id633329577?mt=8&quot; target=&quot;_blank&quot;&gt;PileDriver&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id634586966?mt=8&quot; target=&quot;_blank&quot;&gt;Keystone Cross Media&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id642672944?mt=8&quot; target=&quot;_blank&quot;&gt;ProxTalker® App - Professional&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id644161062?mt=8&quot; target=&quot;_blank&quot;&gt;neoCatalog&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id649488908?mt=8&quot; target=&quot;_blank&quot;&gt;DocGenie&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id655156609?mt=8&quot; target=&quot;_blank&quot;&gt;Fashion Photography Exposed with Melissa Rodwell&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id662005018?mt=8&quot; target=&quot;_blank&quot;&gt;iOptReport&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id665949193?mt=8&quot; target=&quot;_blank&quot;&gt;CAAP 2 Test&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id671015123?mt=8&quot; target=&quot;_blank&quot;&gt;MAVA&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id688109989?mt=8&quot; target=&quot;_blank&quot;&gt;XMA Acro Complete Program - Mike Chat&#39;s Xtreme Martial Arts&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id717048910?mt=8&quot; target=&quot;_blank&quot;&gt;BronchPilot EBUS-TBNA&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id777627186?mt=8&quot; target=&quot;_blank&quot;&gt;Around the caps bookshop Full&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id797577452?mt=8&quot; target=&quot;_blank&quot;&gt;Vibration Transmissibility&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id808817104?mt=8&quot; target=&quot;_blank&quot;&gt;SuperSurv Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id835708068?mt=8&quot; target=&quot;_blank&quot;&gt;Talk and translate&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id844410574?mt=8&quot; target=&quot;_blank&quot;&gt;Balance3W: Grinding Wheel Balancing App&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id858847894?mt=8&quot; target=&quot;_blank&quot;&gt;iAudiometer TEP™&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id870389916?mt=8&quot; target=&quot;_blank&quot;&gt;Alpha Investor US 2015&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id876135973?mt=8&quot; target=&quot;_blank&quot;&gt;Buddy Repperton&#39;s Gold&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id883365066?mt=8&quot; target=&quot;_blank&quot;&gt;PhasePro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id890420284?mt=8&quot; target=&quot;_blank&quot;&gt;DeviceView&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id893598169?mt=8&quot; target=&quot;_blank&quot;&gt;Your E-Caddie Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id898657234?mt=8&quot; target=&quot;_blank&quot;&gt;iAudiometer BAC&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id925485669?mt=8&quot; target=&quot;_blank&quot;&gt;Converter Data&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id926204376?mt=8&quot; target=&quot;_blank&quot;&gt;Synthesis English&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id939386255?mt=8&quot; target=&quot;_blank&quot;&gt;Sales Client PRO - The mobile sales app&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id952847095?mt=8&quot; target=&quot;_blank&quot;&gt;Thermal-Hydraulic Database&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$199.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id956782250?mt=8&quot; target=&quot;_blank&quot;&gt;Ghotit Real Writer&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Thu, 05 Mar 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/05/fr-appstore-prices-199-99.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/05/fr-appstore-prices-199-99.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>prices</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore prices</title>
+        <description>&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
+&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;prices&quot;&gt;1. Prices&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_by_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Price&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Number of applications&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Free&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;780,767&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;69%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$0,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;168,168&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;72,108&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$2,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;43,983&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$3,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;16,611&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$4,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;21,677&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$5,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4,766&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$6,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3,136&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$7,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2,145&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$8,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,508&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$9,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8,473&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$10,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;911&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$11,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;663&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;617&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;70% of the AppStore applications are free. &lt;/li&gt;
+  &lt;li&gt;15% of the AppStore applications are $0,99.&lt;/li&gt;
+  &lt;li&gt;15% of the AppStore applications are &amp;gt; $0,99.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By looking at the prices graph we can find a peak for $9,99. Is it normal ? why ? &lt;br /&gt;
+=&amp;gt; That’s a psychological price!&lt;/p&gt;
+
+&lt;h1 id=&quot;psychological-prices&quot;&gt;2. Psychological prices&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_mental_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Price&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Number of applications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$9,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8,473&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$14,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,290&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$19,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2,186&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$29,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1,062&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$39,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;304&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$49,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;440&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$59,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;130&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$79,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;112&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$99,99&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;305&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/03/05/fr-appstore-prices-199-99.html&quot;&gt;$199,99&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/03/05/fr-appstore-prices-199-99.html&quot;&gt;69&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/03/04/fr-appstore-prices-299-99.html&quot;&gt;$299,99&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/03/04/fr-appstore-prices-299-99.html&quot;&gt;55&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/03/03/fr-appstore-prices-449-799.html&quot;&gt;$449-$799&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/03/03/fr-appstore-prices-449-799.html&quot;&gt;XX&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/03/02/fr-appstore-prices-799.html&quot;&gt;$799,99&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/03/02/fr-appstore-prices-799.html&quot;&gt;XX&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html&quot;&gt;$999,99&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html&quot;&gt;32&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;biggest-prices&quot;&gt;2. Biggest prices&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+(in progress)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/05/fr-appstore-prices.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/05/fr-appstore-prices.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>prices</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore prices $209-$299</title>
+        <description>&lt;h1 id=&quot;applications-list&quot;&gt;Applications list&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Price&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Application&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$209.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id329714850?mt=8&quot; target=&quot;_blank&quot;&gt;Japan Hospital Information 2009/ Kinki area&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$209.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id456412707?mt=8&quot; target=&quot;_blank&quot;&gt;Measure Up!&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$209.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id537232870?mt=8&quot; target=&quot;_blank&quot;&gt;Sono Flex SWE&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$209.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id816144803?mt=8&quot; target=&quot;_blank&quot;&gt;QuickCM Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$209.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id834742359?mt=8&quot; target=&quot;_blank&quot;&gt;Montal Tuner&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$209.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id838231118?mt=8&quot; target=&quot;_blank&quot;&gt;Repertorium Synthesis&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id308368164?mt=8&quot; target=&quot;_blank&quot;&gt;Proloquo2Go - Symbol-based AAC&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id314016595?mt=8&quot; target=&quot;_blank&quot;&gt;Boffo Fun Time Game Pax 1&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id329627579?mt=8&quot; target=&quot;_blank&quot;&gt;Japan Hospital Information 2009/ Kanto area&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id340071843?mt=8&quot; target=&quot;_blank&quot;&gt;Boingg Pachinko&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id340073402?mt=8&quot; target=&quot;_blank&quot;&gt;Clownbop&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id351854972?mt=8&quot; target=&quot;_blank&quot;&gt;Sky-Map&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id398954726?mt=8&quot; target=&quot;_blank&quot;&gt;角膜テキスト アプリ版&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id399107238?mt=8&quot; target=&quot;_blank&quot;&gt;2010 AAP 96th Annual Meeting&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id419856209?mt=8&quot; target=&quot;_blank&quot;&gt;iGlide PRO&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id453686123?mt=8&quot; target=&quot;_blank&quot;&gt;歯科国試鉄人ドリル　完全版６５００&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id490570554?mt=8&quot; target=&quot;_blank&quot;&gt;PermitTrax Mobile&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id555328787?mt=8&quot; target=&quot;_blank&quot;&gt;Wheelchair Basket 3D Coach&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id560522705?mt=8&quot; target=&quot;_blank&quot;&gt;eyeAdvise&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id575670589?mt=8&quot; target=&quot;_blank&quot;&gt;Dental Communication&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id595941736?mt=8&quot; target=&quot;_blank&quot;&gt;Multi-ECG&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id648015351?mt=8&quot; target=&quot;_blank&quot;&gt;TapSpeak Choice AAC&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id925286040?mt=8&quot; target=&quot;_blank&quot;&gt;IOTA ADNEX&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id933180493?mt=8&quot; target=&quot;_blank&quot;&gt;BOSS Consultancy&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id933626974?mt=8&quot; target=&quot;_blank&quot;&gt;fleet50&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id949500572?mt=8&quot; target=&quot;_blank&quot;&gt;Farm Hand - Farm Software&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$219.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id955067619?mt=8&quot; target=&quot;_blank&quot;&gt;Die Handwerk App PRO 2015&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$229.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id398459478?mt=8&quot; target=&quot;_blank&quot;&gt;キャンベル整形外科手術書 原著第10版 第５巻 脊椎 アプリ版&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$229.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id431801761?mt=8&quot; target=&quot;_blank&quot;&gt;Spray&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$229.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id443052242?mt=8&quot; target=&quot;_blank&quot;&gt;iRotorBal SP1&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$229.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id542291335?mt=8&quot; target=&quot;_blank&quot;&gt;Complete Dynamics&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$229.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id881515522?mt=8&quot; target=&quot;_blank&quot;&gt;Treatment of Skin Disease: Comprehensive Therapeutic Strategies&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$229.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id938609163?mt=8&quot; target=&quot;_blank&quot;&gt;The 7 Habits&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$239.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id360024049?mt=8&quot; target=&quot;_blank&quot;&gt;UGotFlagged&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$239.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id598792930?mt=8&quot; target=&quot;_blank&quot;&gt;PinkGuitarFarm&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$239.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id687933819?mt=8&quot; target=&quot;_blank&quot;&gt;pep-dent&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$239.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id737292561?mt=8&quot; target=&quot;_blank&quot;&gt;iZenSee Move Solo&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id315423511?mt=8&quot; target=&quot;_blank&quot;&gt;Water Globe&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id346424883?mt=8&quot; target=&quot;_blank&quot;&gt;Karoline&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id406354107?mt=8&quot; target=&quot;_blank&quot;&gt;iLinX HD&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id443434050?mt=8&quot; target=&quot;_blank&quot;&gt;Easy Consult&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id449938687?mt=8&quot; target=&quot;_blank&quot;&gt;KCapture&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id459975420?mt=8&quot; target=&quot;_blank&quot;&gt;Themis Reader&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id463035894?mt=8&quot; target=&quot;_blank&quot;&gt;LPT Remote&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id467755570?mt=8&quot; target=&quot;_blank&quot;&gt;MobiGage Archeology&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id513205315?mt=8&quot; target=&quot;_blank&quot;&gt;Redstick Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id523474468?mt=8&quot; target=&quot;_blank&quot;&gt;iVibraMeter&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id523479409?mt=8&quot; target=&quot;_blank&quot;&gt;Zollinger&#39;s Atlas of Surgical Operations&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id564629599?mt=8&quot; target=&quot;_blank&quot;&gt;GeoC Iraq Map&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id564634103?mt=8&quot; target=&quot;_blank&quot;&gt;GeoC Afghanistan Map&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id564704213?mt=8&quot; target=&quot;_blank&quot;&gt;GeoC Pakistan Map&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id564707513?mt=8&quot; target=&quot;_blank&quot;&gt;GeoC Yemen Map&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id568745592?mt=8&quot; target=&quot;_blank&quot;&gt;GeoC Syria Map&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id580818608?mt=8&quot; target=&quot;_blank&quot;&gt;GeoC Libya Map&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id657229148?mt=8&quot; target=&quot;_blank&quot;&gt;Geocoder&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id660687904?mt=8&quot; target=&quot;_blank&quot;&gt;Pain Slayer Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id709500836?mt=8&quot; target=&quot;_blank&quot;&gt;iNota SN&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id765584020?mt=8&quot; target=&quot;_blank&quot;&gt;Dcomp&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$249.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id896469937?mt=8&quot; target=&quot;_blank&quot;&gt;SEAiq Pilot VPP&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id335568329?mt=8&quot; target=&quot;_blank&quot;&gt;TuneLab Piano Tuner&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id336732473?mt=8&quot; target=&quot;_blank&quot;&gt;Diamond Link&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id338493075?mt=8&quot; target=&quot;_blank&quot;&gt;Boffo Fun Time Game Pax 2&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id339386782?mt=8&quot; target=&quot;_blank&quot;&gt;roc4iPhone&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id402002277?mt=8&quot; target=&quot;_blank&quot;&gt;MBA Platinum Edition - MBA Learning Solutions&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id409907204?mt=8&quot; target=&quot;_blank&quot;&gt;Homoly&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id412351574?mt=8&quot; target=&quot;_blank&quot;&gt;TouchChat HD - AAC with WordPower&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id429344385?mt=8&quot; target=&quot;_blank&quot;&gt;TouchChat AAC with WordPower&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id433555711?mt=8&quot; target=&quot;_blank&quot;&gt;Smart Dental Chart Pro.&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id435531712?mt=8&quot; target=&quot;_blank&quot;&gt;BMRControl&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id437501540?mt=8&quot; target=&quot;_blank&quot;&gt;Cashy-POS&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id439039866?mt=8&quot; target=&quot;_blank&quot;&gt;LSD Nav Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id443222342?mt=8&quot; target=&quot;_blank&quot;&gt;Apraxia Picture Sound Cards APSC Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id451971799?mt=8&quot; target=&quot;_blank&quot;&gt;ProAir&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id459109672?mt=8&quot; target=&quot;_blank&quot;&gt;GIS Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id472670871?mt=8&quot; target=&quot;_blank&quot;&gt;SafeSession Voice Еncryption&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id479257911?mt=8&quot; target=&quot;_blank&quot;&gt;ScriptE&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id480556441?mt=8&quot; target=&quot;_blank&quot;&gt;VibePro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id504153152?mt=8&quot; target=&quot;_blank&quot;&gt;HES Toolz&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id505068795?mt=8&quot; target=&quot;_blank&quot;&gt;Smart Shade Guide&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id514945536?mt=8&quot; target=&quot;_blank&quot;&gt;Wheel it Off&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id521365794?mt=8&quot; target=&quot;_blank&quot;&gt;Perfect Penalty 2012&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id550028386?mt=8&quot; target=&quot;_blank&quot;&gt;JTAS2012緊急度判定支援システム&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id551215116?mt=8&quot; target=&quot;_blank&quot;&gt;LAMP Words For Life&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id558817481?mt=8&quot; target=&quot;_blank&quot;&gt;Barcelona vs Madrid&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id571807284?mt=8&quot; target=&quot;_blank&quot;&gt;AquaViewer&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id599854984?mt=8&quot; target=&quot;_blank&quot;&gt;Alpha-Investor&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id603689236?mt=8&quot; target=&quot;_blank&quot;&gt;Accent Detector - Funny Prank App to Play Gags &amp;amp; Jokes on Friends&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id604187054?mt=8&quot; target=&quot;_blank&quot;&gt;Fitness &amp;amp; Probity&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id605789132?mt=8&quot; target=&quot;_blank&quot;&gt;InternalAudit&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id648941305?mt=8&quot; target=&quot;_blank&quot;&gt;BalancePro: Shop Balancing Assistant&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id656165317?mt=8&quot; target=&quot;_blank&quot;&gt;LubeCoach - Grease Lubrication Calculator&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id664663704?mt=8&quot; target=&quot;_blank&quot;&gt;iSIT Photo Booth&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id666571221?mt=8&quot; target=&quot;_blank&quot;&gt;iSIT Seating Chart &amp;amp; Guest Book&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id673518518?mt=8&quot; target=&quot;_blank&quot;&gt;Sandman.MD&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id677704335?mt=8&quot; target=&quot;_blank&quot;&gt;roc.Mobile&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id695355712?mt=8&quot; target=&quot;_blank&quot;&gt;MScan&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id698042561?mt=8&quot; target=&quot;_blank&quot;&gt;Y&#39;a pas photo&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id706034555?mt=8&quot; target=&quot;_blank&quot;&gt;AgroBox-C&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id725440631?mt=8&quot; target=&quot;_blank&quot;&gt;Super Edison&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id737535021?mt=8&quot; target=&quot;_blank&quot;&gt;NanoRSS&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id747314899?mt=8&quot; target=&quot;_blank&quot;&gt;SimpleBooth Pro Edition&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id829409851?mt=8&quot; target=&quot;_blank&quot;&gt;Security Chat&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id841415664?mt=8&quot; target=&quot;_blank&quot;&gt;Stone Laser&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id857942902?mt=8&quot; target=&quot;_blank&quot;&gt;iAudiometer B&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id859401475?mt=8&quot; target=&quot;_blank&quot;&gt;MT S-Scope&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id876172233?mt=8&quot; target=&quot;_blank&quot;&gt;WHEELBURN&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id876900888?mt=8&quot; target=&quot;_blank&quot;&gt;Sales Client FULL - The mobile sales app&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id881902886?mt=8&quot; target=&quot;_blank&quot;&gt;Minigolf Pro Plus&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id888252235?mt=8&quot; target=&quot;_blank&quot;&gt;Efficiency Match Pro Futsal&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id890839797?mt=8&quot; target=&quot;_blank&quot;&gt;Efficiency Match Pro Futbol&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id892034769?mt=8&quot; target=&quot;_blank&quot;&gt;Efficiency Match Pro Volleyball&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id895847948?mt=8&quot; target=&quot;_blank&quot;&gt;VibeCapture&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id904170090?mt=8&quot; target=&quot;_blank&quot;&gt;iOptCRM for iPad&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id907329767?mt=8&quot; target=&quot;_blank&quot;&gt;Gateway with Compass&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id907333758?mt=8&quot; target=&quot;_blank&quot;&gt;PODD with Compass&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$299.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id945756779?mt=8&quot; target=&quot;_blank&quot;&gt;Seeing Eye GPS XT&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Wed, 04 Mar 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/04/fr-appstore-prices-299-99.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/04/fr-appstore-prices-299-99.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>prices</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore prices $449-$799</title>
+        <description>&lt;h1 id=&quot;applications-list&quot;&gt;Applications list&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+	  &lt;th style=&quot;text-align: left&quot;&gt;Price&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Application&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id388223739?mt=8&quot; target=&quot;_blank&quot;&gt;The Alchemist SMS&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id396664550?mt=8&quot; target=&quot;_blank&quot;&gt;Sight Selector Premium&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id451888848?mt=8&quot; target=&quot;_blank&quot;&gt;Add2Cart HVAC Sales Tool - Lennox&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id498376097?mt=8&quot; target=&quot;_blank&quot;&gt;iHRV Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id506014311?mt=8&quot; target=&quot;_blank&quot;&gt;Add2Cart Goodman&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id514901685?mt=8&quot; target=&quot;_blank&quot;&gt;Phoenix Lite&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id545384206?mt=8&quot; target=&quot;_blank&quot;&gt;Add2Cart Amana&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id669923355?mt=8&quot; target=&quot;_blank&quot;&gt;Mots de tete&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id711628343?mt=8&quot; target=&quot;_blank&quot;&gt;Add2Cart EverRest&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id711628406?mt=8&quot; target=&quot;_blank&quot;&gt;Add2Cart Energi Air&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id717812302?mt=8&quot; target=&quot;_blank&quot;&gt;NaZco P.A.Q.&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id718071177?mt=8&quot; target=&quot;_blank&quot;&gt;新版颐设计&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id741233934?mt=8&quot; target=&quot;_blank&quot;&gt;Add2Cart Daikin&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id833521701?mt=8&quot; target=&quot;_blank&quot;&gt;Add2Cart HVAC Sales Tool - Universal&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$449.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id942373345?mt=8&quot; target=&quot;_blank&quot;&gt;Die Berater App&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id408964552?mt=8&quot; target=&quot;_blank&quot;&gt;KGulf&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id412760682?mt=8&quot; target=&quot;_blank&quot;&gt;Architactile Inception&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id414100068?mt=8&quot; target=&quot;_blank&quot;&gt;DDS GP Yes!&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id477605292?mt=8&quot; target=&quot;_blank&quot;&gt;Dental iClinic&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id481000629?mt=8&quot; target=&quot;_blank&quot;&gt;dcStoryM Special&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id495255332?mt=8&quot; target=&quot;_blank&quot;&gt;Facility Prime Editor&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id502951694?mt=8&quot; target=&quot;_blank&quot;&gt;덴탈 아이클리닉&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id523471219?mt=8&quot; target=&quot;_blank&quot;&gt;iRotorBalancer&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id544388147?mt=8&quot; target=&quot;_blank&quot;&gt;SmileCeph International&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id554186789?mt=8&quot; target=&quot;_blank&quot;&gt;RadarScope TV&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id561772249?mt=8&quot; target=&quot;_blank&quot;&gt;ComfortConsultant - Frigidaire&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id562088821?mt=8&quot; target=&quot;_blank&quot;&gt;Comfort Consultant - Maytag&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id564173969?mt=8&quot; target=&quot;_blank&quot;&gt;DermaVisionHD&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id567139907?mt=8&quot; target=&quot;_blank&quot;&gt;Comfort Consultant - Westinghouse&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id576898101?mt=8&quot; target=&quot;_blank&quot;&gt;ComfortConsultant - Tappan&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id576902664?mt=8&quot; target=&quot;_blank&quot;&gt;ComfortConsultant-NuTone&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id577584646?mt=8&quot; target=&quot;_blank&quot;&gt;ComfortConsultant-Broan&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id579473594?mt=8&quot; target=&quot;_blank&quot;&gt;Dental Consult－Traditional Chinese Audio Version&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id598916280?mt=8&quot; target=&quot;_blank&quot;&gt;ORSA&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id605752402?mt=8&quot; target=&quot;_blank&quot;&gt;ArcData - Archaeological Data Reporter&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id680967532?mt=8&quot; target=&quot;_blank&quot;&gt;TouchCall Reception Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id731391336?mt=8&quot; target=&quot;_blank&quot;&gt;Dental Consult－English Audio Version&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id861602002?mt=8&quot; target=&quot;_blank&quot;&gt;iAudiometer S&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id865969215?mt=8&quot; target=&quot;_blank&quot;&gt;DermaVisionPlus&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$499.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id869801920?mt=8&quot; target=&quot;_blank&quot;&gt;iAudiometer CS&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$599.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id447598416?mt=8&quot; target=&quot;_blank&quot;&gt;EyeLifestyles&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$599.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id447804891?mt=8&quot; target=&quot;_blank&quot;&gt;Archipad - The construction punchlist tool for contractors and architects to collaborate and manage their plans&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$599.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id449411468?mt=8&quot; target=&quot;_blank&quot;&gt;Verituner&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$599.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id482540262?mt=8&quot; target=&quot;_blank&quot;&gt;Touch Ringer&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$599.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id516513893?mt=8&quot; target=&quot;_blank&quot;&gt;Redstick Pro Data&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$599.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id668705294?mt=8&quot; target=&quot;_blank&quot;&gt;EEDS Veterinarian&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$599.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id927415100?mt=8&quot; target=&quot;_blank&quot;&gt;Liver Surgery Planner&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$699.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id466439861?mt=8&quot; target=&quot;_blank&quot;&gt;dcStory Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$699.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id554973468?mt=8&quot; target=&quot;_blank&quot;&gt;CluTalk&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$699.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id858470566?mt=8&quot; target=&quot;_blank&quot;&gt;iAudiometer PED&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id449281895?mt=8&quot; target=&quot;_blank&quot;&gt;SimplyCeph®&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id508345439?mt=8&quot; target=&quot;_blank&quot;&gt;dcStoryO Specal&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id516489314?mt=8&quot; target=&quot;_blank&quot;&gt;dcStory Pro 日本版&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id668019959?mt=8&quot; target=&quot;_blank&quot;&gt;dcStoryO Specal 中文版&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id841884664?mt=8&quot; target=&quot;_blank&quot;&gt;iAudiometer PRO&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id874768838?mt=8&quot; target=&quot;_blank&quot;&gt;QA Manager&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id949249779?mt=8&quot; target=&quot;_blank&quot;&gt;ColorDx Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Tue, 03 Mar 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/03/fr-appstore-prices-449-799.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/03/fr-appstore-prices-449-799.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>prices</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>AppStore prices $799,99</title>
+        <description>&lt;h1 id=&quot;applications-list&quot;&gt;Applications list&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Price&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Application&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id449281895?mt=8&quot; target=&quot;_blank&quot;&gt;SimplyCeph®&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id508345439?mt=8&quot; target=&quot;_blank&quot;&gt;dcStoryO Specal&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id516489314?mt=8&quot; target=&quot;_blank&quot;&gt;dcStory Pro 日本版&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id668019959?mt=8&quot; target=&quot;_blank&quot;&gt;dcStoryO Specal 中文版&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id841884664?mt=8&quot; target=&quot;_blank&quot;&gt;iAudiometer PRO&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id874768838?mt=8&quot; target=&quot;_blank&quot;&gt;QA Manager&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$799.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id949249779?mt=8&quot; target=&quot;_blank&quot;&gt;ColorDx Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Mon, 02 Mar 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/02/fr-appstore-prices-799.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/02/fr-appstore-prices-799.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>prices</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
     
       <item>
         <title>AppStore supported languages</title>
@@ -203,216 +1897,201 @@
       </item>
     
       <item>
-        <title>AppStore prices 999,99</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+        <title>AppStore prices $999,99</title>
+        <description>&lt;h1 id=&quot;applications-list&quot;&gt;Applications list&lt;/h1&gt;
 
-&lt;h1 id=&quot;applications-list&quot;&gt;Applications list&lt;/h1&gt;
 &lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Price&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Application&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id299616801?mt=8&quot; target=&quot;_blank&quot;&gt;Ignition&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id321971059?mt=8&quot; target=&quot;_blank&quot;&gt;VIP Black&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id353244137?mt=8&quot; target=&quot;_blank&quot;&gt;MobiGage NDI&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id358273412?mt=8&quot; target=&quot;_blank&quot;&gt;MortgagePRO『按揭通』 按揭轉介 最方便快捷&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id403017260?mt=8&quot; target=&quot;_blank&quot;&gt;app.Cash&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id413485998?mt=8&quot; target=&quot;_blank&quot;&gt;Agro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id440995299?mt=8&quot; target=&quot;_blank&quot;&gt;QSFFStats&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id490451741?mt=8&quot; target=&quot;_blank&quot;&gt;CyberTuner&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id499478206?mt=8&quot; target=&quot;_blank&quot;&gt;Art Jam Universe&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id503347984?mt=8&quot; target=&quot;_blank&quot;&gt;vueCAD Pro&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id557550424?mt=8&quot; target=&quot;_blank&quot;&gt;iHarmonizer-U&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id580350150?mt=8&quot; target=&quot;_blank&quot;&gt;Alpha-Trader&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id591278256?mt=8&quot; target=&quot;_blank&quot;&gt;Dentsio&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id604958759?mt=8&quot; target=&quot;_blank&quot;&gt;BATAK Touch&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id623235253?mt=8&quot; target=&quot;_blank&quot;&gt;CrunchMyCap&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id634698072?mt=8&quot; target=&quot;_blank&quot;&gt;DX500RALLY.Classic&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id656094671?mt=8&quot; target=&quot;_blank&quot;&gt;黟县防汛通&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id657720171?mt=8&quot; target=&quot;_blank&quot;&gt;屯溪区防汛通&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id659351237?mt=8&quot; target=&quot;_blank&quot;&gt;約診查詢&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id685657174?mt=8&quot; target=&quot;_blank&quot;&gt;MIDI Designer 12 — Professional MIDI Controller&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id728217136?mt=8&quot; target=&quot;_blank&quot;&gt;Dental Consult－Simplified Chinese Audio Version&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id731462963?mt=8&quot; target=&quot;_blank&quot;&gt;INTEGRAfit&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id763509826?mt=8&quot; target=&quot;_blank&quot;&gt;Fred Install Uren&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id793571720?mt=8&quot; target=&quot;_blank&quot;&gt;CB Deals&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id829855229?mt=8&quot; target=&quot;_blank&quot;&gt;Angry Bat&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id863003808?mt=8&quot; target=&quot;_blank&quot;&gt;iEar APP&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id881396054?mt=8&quot; target=&quot;_blank&quot;&gt;Countedge&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id896094908?mt=8&quot; target=&quot;_blank&quot;&gt;OEDLP&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id897106927?mt=8&quot; target=&quot;_blank&quot;&gt;TheMoneyShot&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id931734880?mt=8&quot; target=&quot;_blank&quot;&gt;Inventory Tracker&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id941551453?mt=8&quot; target=&quot;_blank&quot;&gt;热健&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id945417323?mt=8&quot; target=&quot;_blank&quot;&gt;CISSH RoW&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id945646729?mt=8&quot; target=&quot;_blank&quot;&gt;CISSH Ger&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+&lt;tr&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;$999.99&lt;/td&gt; 
+	&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id959572776?mt=8&quot; target=&quot;_blank&quot;&gt;Lista Ágil&lt;/a&gt;&lt;/td&gt; 
+&lt;/tr&gt;
+
+
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
 </description>
         <pubDate>Sun, 15 Feb 2015 22:12:25 +0100</pubDate>
         <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html</link>
         <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html</guid>
-        
-        <category>AppStore</category>
-        
-        <category>statistics</category>
-        
-        <category>iOS</category>
-        
-        <category>prices</category>
-        
-        
-        <category>appstore</category>
-        
-        <category>statistics</category>
-        
-      </item>
-    
-      <item>
-        <title>AppStore prices</title>
-        <description>&lt;div class=&quot;highlight&quot;&gt;
-  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
-&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;prices&quot;&gt;1. Prices&lt;/h1&gt;
-&lt;hr /&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_by_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Price&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Number of applications&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Free&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;780,767&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;69%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$0,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;168,168&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;72,108&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$2,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;43,983&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$3,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;16,611&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$4,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;21,677&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$5,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;4,766&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$6,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3,136&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$7,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;2,145&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$8,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1,508&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$9,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;8,473&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$10,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;911&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$11,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;663&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$12,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;617&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;
-70% of the AppStore applications are free. 
-15% of the AppStore applications are $0,99.
-15% of the AppStore applications are &amp;gt; $0,99.
-By looking at the prices graph we can find a peak for $9,99. Is it normal ? why ? That’s a psychological price!&lt;/p&gt;
-
-&lt;h1 id=&quot;psychological-prices&quot;&gt;2. Psychological prices&lt;/h1&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of applications by price&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-16/us_applications_mental_price.png&quot; alt=&quot;Number of applications by price&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Price&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Number of applications&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$9,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;8,473&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$14,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1,290&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$19,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;2,186&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$29,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1,062&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$39,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;304&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$49,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;440&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$59,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;130&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$79,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;112&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$99,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;305&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$199,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;69&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$299,99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;55&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html&quot;&gt;$999,99&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;/appstore/statistics/2015/02/15/fr-appstore-prices-999-99.html&quot;&gt;32&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;biggest-prices&quot;&gt;2. Biggest prices&lt;/h1&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;
-(in progress)&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Feb 2015 22:12:25 +0100</pubDate>
-        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices.html</link>
-        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/15/fr-appstore-prices.html</guid>
         
         <category>AppStore</category>
         
@@ -827,184 +2506,6 @@ Apple “controls” the supported version of iOS by the configuration of the mi
         <category>appstore</category>
         
         <category>statistics</category>
-        
-      </item>
-    
-      <item>
-        <title>AppStore growth</title>
-        <description>&lt;div class=&quot;highlight&quot;&gt;
-  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
-&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h1 id=&quot;years-&quot;&gt;6 years !&lt;/h1&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;
-AppleStore release July, 10, 2008 !&lt;/p&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of new released applications by year&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-12/us_applstore_growth.png&quot; alt=&quot;Number of new released applications by year&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Year&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;New applications&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Annual Growth Rate*&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2008&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5,854&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2009&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;42,066&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;+619%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2010&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;99,027&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;+135%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2011&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;142,359&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;+44%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2012&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;194,193&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;+36%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2013&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;266,402&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;+37%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2014&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;361,083&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;+36%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2015*&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;489,414&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;+36%&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;
-  &lt;p&gt;Annual Growth Rate (new apps) = 100 * ((New apps)-(New apps year-1)) / (New apps year-1)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The AppStore is growing.
-Each year, more and more apps are submitted and released on the Apple store.
-Since 2012, Annual Growth Rate is stabilize to a constant rate 36%.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Year&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Registered developpers&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Year growth*&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2008&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2009*&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;960,000*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;-&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2010*&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;2,300,000*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;x 2.35*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2011*&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;3,300,000*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;x 1.43*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2012&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4,500,000&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;em&gt;&lt;font color=&quot;gray&quot;&gt;x 1.36*&lt;/font&gt;&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2013&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6,000,000&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;x 1.33&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2014&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;9,000,000&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;x 1.5&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;
-  &lt;p&gt;*indicate estimated value&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;So what ? I’m not realy agree with this &lt;a href=&quot;http://blog.appfigures.com/app-stores-growth-accelerates-in-2014&quot;&gt;appfigures article&lt;/a&gt;.
-The AppStore growing is not accelerating is now ~constant, +36% each year.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;appstore-month-by-month&quot;&gt;AppStore, month by month&lt;/h1&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of new released applications by months&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-12/us_applstore_growth_months.png&quot; alt=&quot;Number of new released applications by months&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-Each years, on november/december, there is a statisticaly more submitted/released Apple :) &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Number of new released applications by months&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-12/us_applstore_growth_months_pourcent.png&quot; alt=&quot;Number of new released applications by months&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;At the beginning of the AppStore, there were a huge wave of new apps at the Christmas period. 20% of the new app of the year submitted in 2 months. That Christmas effet is reducing, with a more constant ratio during the year.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 12 Feb 2015 22:12:25 +0100</pubDate>
-        <link>127.0.0.1:4000#"http://applytics.com"/appstore/growth/2015/02/12/fr-appstore-applications-growth.html</link>
-        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/growth/2015/02/12/fr-appstore-applications-growth.html</guid>
-        
-        <category>AppStore</category>
-        
-        <category>statistics</category>
-        
-        <category>iOS</category>
-        
-        <category>growth</category>
-        
-        
-        <category>appstore</category>
-        
-        <category>growth</category>
         
       </item>
     
