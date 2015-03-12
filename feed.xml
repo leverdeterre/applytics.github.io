@@ -6,9 +6,66 @@
 </description>
     <link>127.0.0.1:4000#"http://applytics.com"/</link>
     <atom:link href="127.0.0.1:4000#"http://applytics.com"/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Mar 2015 07:24:38 +0100</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2015 07:24:38 +0100</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2015 07:17:09 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2015 07:17:09 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>AppStore rating</title>
+        <description>&lt;div class=&quot;highlight&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
+&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;rating&quot;&gt;1. Rating&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Analysis of the application rating.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Applications rating&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-10/us_applications_rating.png&quot; alt=&quot;Applications rating&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OMG. 75% of the applications don’t have any rates.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Applications rating (with a rate)&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-10/us_applications_rating_not_none.png&quot; alt=&quot;Applications rating (with a rate)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Mar 2015 22:12:25 +0100</pubDate>
+        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/10/fr-appstore-rating.html</link>
+        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/10/fr-appstore-rating.html</guid>
+        
+        <category>AppStore</category>
+        
+        <category>statistics</category>
+        
+        <category>iOS</category>
+        
+        <category>rating</category>
+        
+        
+        <category>appstore</category>
+        
+        <category>statistics</category>
+        
+      </item>
     
       <item>
         <title>AppStore genres</title>
@@ -19,29 +76,312 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;genres&quot;&gt;1. Genres&lt;/h1&gt;
+&lt;h1 id=&quot;primary-genres&quot;&gt;1. Primary genres&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Analysis of the application distribution using only primary genre.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Pourcent of applications by primary genre&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-06/us_applications_2014_primary_genre.png&quot; alt=&quot;Pourcent of applications by primary genre&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Primary genre&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Number of applications&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Games&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;260,992&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;23%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Education&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;113,682&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Business&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;91,080&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Lifestyle&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;88,221&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Entertainment&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;82,511&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Utilities&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;57,510&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Travel&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;54,533&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Book&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;44,131&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Music&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;37,226&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Health &amp;amp; Fitness&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;32,519&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Sports&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;32,368&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Reference&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30,528&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Productivity&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30,353&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Photo &amp;amp; Video&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30,154&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;News&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;27,368&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Food &amp;amp; Drink&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;25,843&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Finance&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;25,798&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Medical&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24,947&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Social Networking&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;19,904&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Navigation&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14,729&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Catalogs&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7,006&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Weather&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4,610&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&amp;lt;1%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+  No surprise. Games is the biggest category, 23% of the applications are categorized as Game. &lt;/p&gt;
+
+&lt;h1 id=&quot;genres&quot;&gt;2. Genres&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Analysis using primary and secondary genres of the applications. 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;image no_border&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Pourcent of applications by genres&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-06/us_applications_2014_genres.png&quot; alt=&quot;Pourcent of applications by genres&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Genre&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Number of applications&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Games&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;564,096&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50,37%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Entertainment&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;381,772&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;34,09%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Education&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;304,948&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;27,23%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Lifestyle&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;277,885&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24,81%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Business&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;220,443&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;19,68%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Utilities&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;185,225&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16,54%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Travel&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;135,380&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12,09%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Reference&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;107,079&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9,56%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Productivity&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;104,171&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9,30%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Sports&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;95,825&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8,56%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Music&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;95,590&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8,53%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Health &amp;amp; Fitness&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;87,093&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7,78%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Photo &amp;amp; Video&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;76,991&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6,87%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;News&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;72,715&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6,49%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Books&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;70,412&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6,29%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Puzzle&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;68,877&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6,15%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Arcade&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;63,746&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5,69%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Finance&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;61,233&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5,47%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Social Networking&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;60,773&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5,43%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Action&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;60,466&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5,40%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Family&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;59,597&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5,32%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Medical&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;59,394&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5,30%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Food &amp;amp; Drink&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;58,154&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5,19%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+  Huge surprise! Games is one more time the biggest category, 50% of the applications are categorized as Game !!!&lt;/p&gt;
+
+&lt;h1 id=&quot;genres-evolutions-gamification&quot;&gt;3. Genres evolutions …gamification&lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;% of applications by genres&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-06/us_applications_2014_genres.png&quot; alt=&quot;% of applications by genres&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Pourcent of applications by genres by years&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-06/us_applications_genres_evolution.png&quot; alt=&quot;Pourcent of applications by genres by years&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;genres-evolutions&quot;&gt;2. Genres evolutions&lt;/h1&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;% of applications by genres&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-06/us_applications_genres_evolution.png&quot; alt=&quot;% of applications by genres&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Pourcent of applications by genres by years&lt;/strong&gt;&lt;/caption&gt;
+&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-03-06/us_applications_genres_evolution_3D.png&quot; alt=&quot;Pourcent of applications by genres by years&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gamification (Game + Entertainment)&lt;/li&gt;
+  &lt;li&gt;Businessification&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Fri, 06 Mar 2015 22:12:25 +0100</pubDate>
         <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/03/06/fr-appstore-genres.html</link>
@@ -53,7 +393,7 @@
         
         <category>iOS</category>
         
-        <category>prices</category>
+        <category>genres</category>
         
         
         <category>appstore</category>
@@ -2162,337 +2502,6 @@ The iPad 2 is a real survivor ! Out of the box in March 2011 and still actualy s
         <pubDate>Sat, 14 Feb 2015 22:12:25 +0100</pubDate>
         <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/14/fr-appstore-supported-devices.html</link>
         <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/14/fr-appstore-supported-devices.html</guid>
-        
-        <category>AppStore</category>
-        
-        <category>statistics</category>
-        
-        <category>iOS</category>
-        
-        <category>supported version</category>
-        
-        
-        <category>appstore</category>
-        
-        <category>statistics</category>
-        
-      </item>
-    
-      <item>
-        <title>AppStore miminal iOS supported version</title>
-        <description>&lt;div class=&quot;highlight&quot;&gt;
-  &lt;p&gt;&lt;strong&gt;Database size&lt;/strong&gt; : 6,35 Go &lt;br /&gt;
-&lt;strong&gt;Database records&lt;/strong&gt; : 1,135,994 applications&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The App Store opened on July 10, 2008.
-How many compatible applications can by find on the Appstore today for your “old” device.&lt;/p&gt;
-
-&lt;h1 id=&quot;understanding-ios-compatibility-on-the-appstore&quot;&gt;1. Understanding iOS compatibility on the AppStore&lt;/h1&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Device&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;limited iOS version&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPhone&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;iOS 3.1.3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPhone 3G&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;iOS 4.1.2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPhone 3GS&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;iOS 6.1.6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPhone 4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;iOS 7.1.2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPhone 4S + others&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;iOS 8.X&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPad&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;iOS 5.1.1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iPad 2 + others&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;iOS 8.X&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Source : &lt;a href=&quot;http://iossupportmatrix.com/&quot;&gt;iOS Matrix&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;ios-version-compatibility-on-the-appstore&quot;&gt;2. iOS version compatibility on the AppStore&lt;/h1&gt;
-&lt;hr /&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Pourcent of AppStore applications by iOS minimum version&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios_minimum_supported_version_pourcent.png&quot; alt=&quot;Pourcent of AppStore applications by iOS minimum version&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;iOS&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Number of applications&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Pourcent&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;18,247&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;130,349&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;12%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;277,334&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;25%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS5&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;263,517&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;24%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS6&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;266,598&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;24%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;154,222&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;14%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;iOS8&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10,536&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s a good suprise. My iPhone 2G is compatible with 148,596 applications.
-My iPad1 is compatible with 689,447 apps. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;evolution-of-ios-support-on-the-appstore&quot;&gt;3. Evolution of iOS support on the AppStore&lt;/h1&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Yes, i’m an iOS developer.
-Every day i have to choose the iOS minimal version to support.
-The next study is about the ‘1st release date’ of the application and the iOS minimum supported version.&lt;/p&gt;
-
-&lt;h2 id=&quot;one-by-one&quot;&gt;3.1. One by one&lt;/h2&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS2 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios2_release_date.png&quot; alt=&quot;iOS2 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS3 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios3_release_date.png&quot; alt=&quot;iOS3 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;key dates&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;February 16, 2012 : Xcode 4 (Minimal version 4.3)&lt;/p&gt;
-&lt;p&gt;October, 2012 : Xcode 4 become mandatory&lt;/p&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS4 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios4_release_date.png&quot; alt=&quot;iOS4 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;key dates&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;February 1, 2014 : Xcode 5 (Minimal version 4.3)&lt;/p&gt;
-&lt;p&gt;September 2014 : Xcode 5 become mandatory&lt;/p&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS5 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios5_release_date.png&quot; alt=&quot;iOS5 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS6 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios6_release_date.png&quot; alt=&quot;iOS6 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS7 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios7_release_date.png&quot; alt=&quot;iOS7 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;iOS8 f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_ios8_release_date.png&quot; alt=&quot;iOS8 f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The supported iOS is changing (it’s not very surprising).
-More recent released applications supports more recent iOS versions. It’s quite normal.
-Apple “controls” the supported version of iOS by the configuration of the minimal target version of Xcode.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Xcode 3&lt;/strong&gt; : Supports minimum target version iOS3.0&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Xcode 4&lt;/strong&gt; : Supports minimum target version iOS4.3&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Xcode 5&lt;/strong&gt; : Supports minimum target version iOS4.3&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Xcode 6&lt;/strong&gt; : Supports minimum target version iOS4.3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Actually, it’s possible to do a iOS application with iOS4.3 compatibility but it’s complicated for developpers.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;cumulated&quot;&gt;3.2. Cumulated&lt;/h2&gt;
-
-&lt;table class=&quot;image no_border&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;strong&gt;Cumulated iOS version f(1st release date)&lt;/strong&gt;&lt;/caption&gt;
-&lt;tr class=&quot;no_border&quot;&gt;&lt;td class=&quot;no_border&quot;&gt;&lt;img src=&quot;/assets/2015-02-13/us_release_date_2_ios_version.png&quot; alt=&quot;Cumulated iOS version f(1st release date)&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Release date&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS4&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS5&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS6&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS7&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS8&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;September 2014&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;9,19%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16,73%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;42,60%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;29,28%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2,16%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;January 2015&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7,22% (&lt;font color=&quot;red&quot;&gt;-1,97%&lt;/font&gt;)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;14,67% (&lt;font color=&quot;red&quot;&gt;-2,06%&lt;/font&gt;)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;40,14% &lt;font color=&quot;red&quot;&gt;-2,46%&lt;/font&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;31,00% (&lt;font color=&quot;green&quot;&gt;+1,72%&lt;/font&gt;)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6,98% (&lt;font color=&quot;green&quot;&gt;+4,82%&lt;/font&gt;)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;iOS4&lt;/strong&gt; : This old version is slowly abandoned. iOS4 is not very interesting iOS version to support. This version was released on june 2010 and the only impacted device is the iPhone 3G.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;iOS5&lt;/strong&gt; : This major impact to support this version is to be able to deploy the applicaiton on the first iPad.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;iOS6/7/8&lt;/strong&gt; : Are supported from iPhone 3GS to iPhone 6 Plus.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;why-supporting-ios-version-is-complicated-&quot;&gt;4. Why supporting iOS version is complicated ?&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Problems&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS4&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS5&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS6&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS7&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;iOS8&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Environment : find a device is complicated&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Environment : Xcode simulator missing&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : childViewController missing&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : autolayout missing&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : weak missing (less stability)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : storyboard  missing&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Code limitation : CollectionView missing&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-        <pubDate>Fri, 13 Feb 2015 22:12:25 +0100</pubDate>
-        <link>127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/13/fr-appstore-supported-ios-version.html</link>
-        <guid isPermaLink="true">127.0.0.1:4000#"http://applytics.com"/appstore/statistics/2015/02/13/fr-appstore-supported-ios-version.html</guid>
         
         <category>AppStore</category>
         
